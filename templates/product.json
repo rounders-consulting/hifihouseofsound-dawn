@@ -48,15 +48,6 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "collapsible_tab_Rkpjkt": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Delivery Times",
-            "icon": "truck",
-            "content": "<p>6-8 weeks</p>",
-            "page": ""
-          }
-        },
         "text_qgxXzr": {
           "type": "text",
           "settings": {
@@ -86,7 +77,6 @@
         "price",
         "variant_picker",
         "quantity_selector",
-        "collapsible_tab_Rkpjkt",
         "text_qgxXzr",
         "buy_buttons",
         "share"
