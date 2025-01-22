@@ -42,6 +42,18 @@
             "collection": "rekkord-audio"
           }
         },
+        "featured_collection_jqkxqt": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "vicoustic"
+          }
+        },
+        "featured_collection_JcLdRL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "nordost"
+          }
+        },
         "featured_collection_EwR4aY": {
           "type": "featured_collection",
           "settings": {
@@ -55,6 +67,8 @@
         "featured_collection_knVwTG",
         "featured_collection_nfX4H9",
         "featured_collection_qm8AzW",
+        "featured_collection_jqkxqt",
+        "featured_collection_JcLdRL",
         "featured_collection_EwR4aY"
       ],
       "settings": {
