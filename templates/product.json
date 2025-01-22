@@ -48,6 +48,13 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "text_qgxXzr": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>DELIVERY TIMES: may vary</strong>",
+            "text_style": "body"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -70,6 +77,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "text_qgxXzr",
         "buy_buttons",
         "share"
       ],
