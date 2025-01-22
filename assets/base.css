@@ -1346,7 +1346,7 @@ shopify-accelerated-checkout-cart {
 
 .button--full-width {
   display: flex;
-  width: 100%;
+  width: auto;
 }
 
 .button.loading {
