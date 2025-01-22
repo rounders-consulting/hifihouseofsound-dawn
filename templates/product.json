@@ -51,7 +51,7 @@
         "text_qgxXzr": {
           "type": "text",
           "settings": {
-            "text": "<strong>DELIVERY TIMES: may vary</strong>",
+            "text": "<strong>DELIVERY TIMES: </strong>may vary",
             "text_style": "body"
           }
         },
